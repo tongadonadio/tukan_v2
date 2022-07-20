@@ -1,0 +1,45 @@
+.login-container {
+  text-align: center;
+}
+
+.tukan-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.login-header {
+  background: linear-gradient(to top, darkcyan, cadetblue);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(8vmin);
+  font-weight: 900;
+  color: darkorange;
+}
+
+.login-form {
+  width: 85%;
+}
+
+.login-input {
+  border-radius: 20px !important;
+  background-color: #8fbfc0 !important;
+  border-color: #8fbfc0 !important;
+}
+
+.login-button {
+  background-color: darkorange !important;
+  border-color: darkorange !important;
+  border-radius: 20px !important;
+  width: 100%;
+  font-weight: 800;
+  margin-top: 50px;
+}
+
+.link {
+  color: white;
+  font-size: x-small;
+  text-decoration: none;
+}

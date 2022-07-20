@@ -1,0 +1,18 @@
+.daily-report-container {
+    margin-bottom: 80px;
+}
+
+.daily-picture {
+    width: 100%;
+    margin-top: 20px;
+}
+
+.decoration-margins {
+    height: 1.5px;
+    width: 85%;
+    background-color: rgba(0, 0, 0, 0.05);
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    display: block;
+}

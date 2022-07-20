@@ -1,0 +1,7 @@
+.attendance-tabs {
+    padding-top: 10px;
+}
+
+.attendance-link-tab {
+    color: var(--bs-body-color) !important;
+}

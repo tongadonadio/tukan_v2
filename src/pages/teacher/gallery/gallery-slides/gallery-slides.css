@@ -1,0 +1,19 @@
+.carousel-container {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.photo-slide {
+    height: 150px;
+    border-radius: 25px;
+}
+
+.title-date {
+    margin: 15px 0px 0px 10px !important;
+    font-weight: bold;
+}
+
+.title-name {
+    margin: 0px 0px 0px 10px !important;
+    font-size: x-small;
+}

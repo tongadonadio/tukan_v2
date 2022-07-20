@@ -1,0 +1,19 @@
+.activity-title {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.students-table {
+    margin-top: 30px;
+    margin-bottom: 50px !important;
+}
+
+.student-img {
+    width: 40px;
+    height: auto;
+}
+
+.col-cancel {
+    text-align: center;
+}

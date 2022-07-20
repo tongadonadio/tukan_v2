@@ -1,0 +1,23 @@
+.clicked-card {
+    box-shadow: 0 15px 47px 0 rgb(0 0 0 / 12%), 0 5px 14px 0 rgb(0 0 0 / 20%) !important;
+    border-radius: 15px !important;
+}
+
+.clicked-card:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+.home-card-row {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.home-card-col {
+    text-align: center;
+    font-size: small;
+}
+
+.custom-link {
+    text-decoration: none !important;
+    color: var(--bs-body-color);
+}

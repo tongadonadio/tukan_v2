@@ -1,0 +1,28 @@
+.attendance-list-text {
+    vertical-align: middle !important;
+}
+
+.student-attendance-checkbox {
+    text-align: center;
+}
+
+.student-attendance-img {
+    width: 40px;
+    height: auto;
+}
+
+.datepicker {
+    padding-left: 20px;
+}
+
+.datepicker-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.date-text {
+    margin-bottom: 0px;
+    align-self: center;
+}

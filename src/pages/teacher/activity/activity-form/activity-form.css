@@ -1,0 +1,25 @@
+.activity-form-container {
+    margin: 10px;
+}
+
+.activity-type-row {
+    margin-top: 10px !important;
+}
+
+.decoration-margins {
+    height: 1.5px;
+    width: 85%;
+    background-color: rgba(0, 0, 0, 0.05);
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.clicked-card {
+    box-shadow: 0 15px 47px 0 rgb(0 0 0 / 12%), 0 5px 14px 0 rgb(0 0 0 / 20%) !important
+}
+
+.clicked-card:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+}

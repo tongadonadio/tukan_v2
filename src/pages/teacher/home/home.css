@@ -1,0 +1,47 @@
+.user-icon {
+    width: 10%;
+    height: 10%;
+}
+
+.card-row {
+    margin: 10px 10px 10px 10px !important;
+}
+
+.card-body {
+    padding: 10px 5px 10px 5px !important;
+    font-size: x-large;
+    font-weight: 500;
+}
+
+.attendance-card {
+    background: linear-gradient(to right, darkcyan, #87c2c2) !important;
+    border-color: cadetblue;
+}
+
+.gallery-card {
+    background: linear-gradient(to right, #87c2c2, darkcyan) !important;
+    border-color: cadetblue;
+}
+
+.program-card {
+    background: linear-gradient(to right, darkcyan, #87c2c2) !important;
+    border-color: cadetblue;
+}
+
+.activity-card {
+    background: linear-gradient(to right, #87c2c2, darkcyan) !important;
+    border-color: cadetblue;
+}
+
+.card-image {
+    width: 30%;
+}
+
+.bar-menu {
+    box-shadow: 0 0px 10px 0 rgb(0 0 0 / 20%) !important;
+}
+
+.custom-link {
+    text-decoration: none !important;
+    color: var(--bs-body-color);
+}

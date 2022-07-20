@@ -1,0 +1,11 @@
+.message-tabs {
+    padding-top: 10px;
+}
+
+.message-link-tab {
+    color: var(--bs-body-color) !important;
+}
+
+.messages-container {
+    padding: 30px !important;
+}
